@@ -1,0 +1,54 @@
+input{
+    width: 500px; 
+    height: 30px; 
+}
+
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.picture{
+    width: 900px;
+    height: 230px;
+}
+
+
+body{
+	background-image: url("https://static.vecteezy.com/system/resources/previews/028/688/003/original/white-natural-steam-smoke-on-transparent-background-abstract-with-waves-swirl-wave-movement-used-in-overlay-in-pollution-vapor-dry-ice-hot-water-smoke-png.png");
+	background-repeat: no-repeat;
+    background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+h1{
+    background: linear-gradient(to right,brown, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h2{
+    background: linear-gradient(to right,khaki, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h3{
+    color: red;
+}
+
+ul, ol {
+    margin-left: 5px;
+
+}
+
+
+p{
+    background: linear-gradient(burlywood, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
